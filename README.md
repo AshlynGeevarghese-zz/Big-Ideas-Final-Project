@@ -1,6 +1,5 @@
 # Big-Ideas-Final-Project
 
-=======
 # Team Name
 A-Team
 
@@ -9,7 +8,6 @@ Ashlyn Geevarghese aag87@pitt.edu
 Nandini Kasibhotla nak173@pitt.edu
 Dominick Deventura dod38@pitt.edu	
 
-=======
 # Metrics
 https://data.wprdc.org/dataset/pgh/resource/f7b19c6c-aa66-419b-b0e1-9998d7ddfcbc
 This data set shows the number of students who have graduated high school and obtained degrees higher than a high school diploma in Pittsburhg neighborhoods. Neighborhood with higher high school graduation rates tend to be better neighborhoods for children to grow up in.
